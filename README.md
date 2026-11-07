@@ -49,7 +49,6 @@ A responsive food ordering website with food browsing, search, categories and ca
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/chinreddyudaykiranreddy)
 - GitHub: [My GitHub Profile](https://github.com/chinreddyudaykiranreddy-commits)
-
 ---
 
 ⭐ Thanks for visiting my profile!
